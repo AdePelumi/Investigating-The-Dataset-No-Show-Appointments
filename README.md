@@ -44,4 +44,4 @@ A few percentage of patient were sponsored for the appointments. While that migh
 
 **Limitations**
 1. The ratio of male to female in the data is not balanced so there will probably be a bias towards the females
-2.Cannot show strong correlations between factors since my analysis is on  categorical data.
+2. Cannot show strong correlations between factors since my analysis is on  categorical data.
